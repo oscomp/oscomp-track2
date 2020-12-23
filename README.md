@@ -20,3 +20,5 @@
 
 ## 可选比赛项目列表
 请看 https://github.com/oscomp 中的projX-...的repo中的信息
+
+## [比赛题目模板](https://github.com/oscomp/os-competition-info/blob/main/track2-proj-template.md)
